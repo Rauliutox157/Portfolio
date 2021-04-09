@@ -1,0 +1,46 @@
+
+main #ACADEMIA h2 {
+    background-color: rgb(255, 255, 255);
+  }
+    #ACADEMIA{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+    }
+    #ACADEMIA  h1{
+        color: black;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 20px;
+        background-color: brown;
+        box-shadow: cadetblue;
+        word-spacing: 5px;
+        letter-spacing: 10px;
+    } 
+    #ACADEMIA figure{
+    display: flex;
+    flex-flow: column nowrap;
+    margin-top: 20px;
+    background-color: none;
+    text-align: center;
+    }
+    #ACADEMIA figure img{       
+         border-radius: 15px;
+        box-shadow: cornsilk;
+    }
+    #ACADEMIA figure img:hover{
+        box-shadow: crimson;
+    }
+    figure img #roro.gif{
+        width: 25%;
+        height: 50px;
+    }
+    #ACADEMIA p{
+        text-align: justify;
+        line-height: 1.3;
+        text-indent: 5cm;
+    }
+    

@@ -1,0 +1,56 @@
+#HOME{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+#HOME h1{
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    margin: 0   auto ;
+    margin-top: 20px;
+    background-color: rgb(136, 0, 0);
+    box-shadow: cadetblue;
+    word-spacing: 5px;
+    letter-spacing: 10px;
+} 
+#HOME figure{
+    display: flex;
+    flex-flow: column nowrap;
+    margin-top: 20px;
+    background-color: none;
+    text-align: center;
+}
+#HOME figure img{
+    width: 90%;
+    border-radius: 15px;
+    box-shadow: cornsilk;
+}
+figure img #giff.gif{
+    width: 40%;
+  
+    
+}
+#HOME figure img:hover{
+    box-shadow: crimson;
+}
+.centrado{
+    margin:10px auto;
+    display:block;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+main article{
+    padding: 15px;
+}
+main article div h1{
+    font-family: 'Roboto Slab', serif;
+    color: blue;
+}

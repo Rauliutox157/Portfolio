@@ -1,0 +1,10 @@
+main #TIENDA h2 {
+    background-color: rgb(255, 255, 255);
+    
+    }
+    main #TIENDA {
+        margin: 0 auto;
+    }
+    main figure img{
+        width: 95% ;
+    }

@@ -1,0 +1,44 @@
+
+main #FANS h2 {
+    background-color: rgb(255, 255, 255);
+    
+    }
+   
+    #FANS{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+    }
+    #FANS  h1{
+        color: black;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 20px;
+        background-color: brown;
+        box-shadow: cadetblue;
+        word-spacing: 5px;
+        letter-spacing: 10px;
+    } 
+    
+
+    figure img #a2faabb0d48d1bc973e2c15411c5b37a.gif{
+        width: 24px;
+        height: 25px;
+    }
+    #FANS figure img{
+        width: 90%;
+        border-radius: 15px;
+        box-shadow: cornsilk;
+    }
+    #FANS figure img:hover{
+        box-shadow: crimson;
+    }
+    #FANS  p{
+        text-align: justify;
+        line-height: 1.3;
+        text-indent: 5cm;
+    }
+    

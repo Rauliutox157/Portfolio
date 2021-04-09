@@ -1,0 +1,76 @@
+main #FEMENINO{
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+main #FEMENINO h2{
+    color: black;
+    margin-bottom: 20px;
+    width: 100%;
+
+}
+main #FEMENINO p{
+    color: black;
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 1cm;
+    font-weight: bolder;
+    width: 100%;
+
+}
+main #FEMENINO figure{
+    width: 45%;
+}
+
+figure img #femenino55555555.PNG{
+    width: 45%;
+    height:465;
+}
+figure img #xxxx.PNG{
+    width: 100%;
+    height: 150px;
+}
+#FEMENINO{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+#FEMENINO  h1{
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: brown;
+    box-shadow: cadetblue;
+    word-spacing: 5px;
+    letter-spacing: 10px;
+} 
+
+#FEMENINO figure{
+display: flex;
+flex-flow: column nowrap;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+width: 60%;
+background-color: none;
+text-align: center;
+}
+#FEMENINO figure img{
+    width: 90%;
+    border-radius: 15px;
+    box-shadow: cornsilk;
+}
+#FEMENINO figure img:hover{
+    box-shadow: crimson;
+}
+#FEMENINO p{
+    text-align: justify;
+    line-height: 1.3;
+    text-indent: 5cm;
+}
